@@ -2,7 +2,7 @@
 
 # 设置各变量
 WSPATH=${WSPATH:-'argo'}
-UUID=${UUID:-'de04add9-5c68-8bab-950c-08cd5320df18'}
+UUID=${UUID:-'bba9ab08-1e9f-4e55-bf2b-373ea2239401'}
 
 # 其他Paas保活
 PAAS1=
@@ -10,8 +10,8 @@ PAAS2=
 PAAS3=
 
 # koyeb账号保活
-KOYEB_ACCOUNT=
-KOYEB_PASSWORD=
+KOYEB_ACCOUNT=look55forward@outlook.com
+KOYEB_PASSWORD=Iam@#$ahard!sTON$Eass35s%wds!ft%deWER78a
 
 
 generate_config() {
